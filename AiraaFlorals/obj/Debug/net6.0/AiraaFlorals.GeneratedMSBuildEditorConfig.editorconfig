@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AiraaFlorals
+build_property.RootNamespace = AiraaFlorals
+build_property.ProjectDir = D:\Conestoga\Summer 2023\Advanced ASP NET\Group Project\AiraaFlorals\AiraaFlorals\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Conestoga\Summer 2023\Advanced ASP NET\Group Project\AiraaFlorals\AiraaFlorals
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Bouquets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm91cXVldHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Bouquets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm91cXVldHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Bouquets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm91cXVldHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Bouquets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm91cXVldHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Bouquets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm91cXVldHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/CartItems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydEl0ZW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/CartItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydEl0ZW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/CartItems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydEl0ZW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/CartItems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydEl0ZW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/CartItems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydEl0ZW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Carts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Carts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Carts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Carts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Carts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Home/Homescreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lc2NyZWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Home/LoginRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpblJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Occasions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjYXNpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Occasions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjYXNpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Occasions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjYXNpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Occasions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjYXNpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Occasions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjYXNpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Conestoga/Summer 2023/Advanced ASP NET/Group Project/AiraaFlorals/AiraaFlorals/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g6fzjznrrr

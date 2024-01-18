@@ -1,0 +1,214 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #e1c8ec;
+}
+
+.formbody{
+    background-color: lavender;
+    border-radius: 10px;
+}
+
+.btnstyle{
+    background-color: rebeccapurple;
+    color:ghostwhite;
+}
+
+footer{
+    color:aliceblue;
+}
+
+header {
+    background-color: ghostwhite;
+    color:antiquewhite;
+}
+
+.btnchecks{
+    background-color:purple;
+    font-size:28px;
+    color:aliceblue;
+    border-radius:8px;
+}
+
+.btnchecks:hover {
+    background-color: rebeccapurple;
+    font-size: 28px;
+    color: aliceblue;
+    border-radius: 8px;
+}
+
+.btnaddfloral {
+    background-color: purple;
+    font-size: 22px;
+    color: aliceblue;
+    border-radius: 8px;
+}
+
+.btnaddfloral:hover {
+    background-color: rebeccapurple;
+    color: aliceblue;
+    border-radius: 8px;
+}
+
+.productsdiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.proddiv {
+    width: 23%;
+    margin: 1% 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    background-color: #330033;
+    color:mintcream;
+}
+
+.prdtimg {
+    max-width: 100%;
+    height: auto;
+    padding:0px;
+}
+
+.prdtimgicn {
+    max-width: 10%;
+    height: auto;
+    padding: 0px;
+    margin:0px;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.addcartbtn {
+    font-size:18px;
+    margin: auto;
+    background-color: #e4dfda;
+    padding: 8px;
+    border-radius: 5px;
+    color: #330033;
+}
+
+.addcartbtn:hover{
+    background-color: darkred;
+    color:aliceblue;
+}
+
+.addcartform{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    align-items:center;
+}
+
+.prodhead{
+    text-align:center;
+    color:darkmagenta;
+    font-size:60px;
+    font-family:'French Script MT', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic;
+
+}
+
+.carttbl td, .carttbl th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.carttbl tr:nth-child(even) {
+    background-color: #cdc6c6;
+}
+
+.carttbl tr:nth-child(odd) {
+    background-color: #dfd8d8;
+}
+
+.carttbl th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #330033;
+    color: white;
+}
+
+.orderbtn, .btncheckout {
+    float:right;
+    font-size: 20px;
+    margin: auto;
+    background-color: #330033;
+    padding: 8px;
+    border-radius: 5px;
+    color: ghostwhite;
+    margin-top: 25px;
+}
+
+.orderbtn:hover, .btncheckout:hover{
+    background-color: #0e4426;
+    color:aliceblue;
+}
+
+.orderfrm{
+    margin:auto;
+}
+
+.welcometext{
+    color:purple;
+    margin:10px;
+    text-align:center;
+}
+
+.navig{
+    
+}
+
+.navdiv {
+    float: right;
+    margin-right: 15px;
+}
+
+.navlnk {
+    text-decoration:none;
+    color: purple;
+    margin:15px;
+    padding:8px;
+    border-radius: 5px;
+}
+
+.navlnk:hover {
+    color: darkred;
+    background-color:peachpuff;
+}
+
+.navhead {
+    font-family:'Book Antiqua';
+    text-decoration: none;
+    color: purple;
+    margin: 15px;
+    font-size:35px;
+}

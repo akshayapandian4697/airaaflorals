@@ -1,0 +1,70 @@
+﻿@model IEnumerable<AiraaFlorals.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@{
+    bool hasItems = Model.Any(); // Check if there are any items in the model
+}
+
+<h3>My Cart</h3>
+<hr />
+
+<table class="table carttbl">
+    <thead>
+        <tr>
+            <th>
+                Floral Name
+            </th>
+            <th>
+                Preview
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Subtotal
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bouquets.Name)
+            </td>
+            <td class="w-50 imgcol">
+                <img src="data:image/jpeg;base64,@Convert.ToBase64String(item.Bouquets.Image)" alt="@item.Bouquets.Name" class="prdtimgicn" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemQuantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubTotal)
+            </td>
+
+            <td>
+                <a asp-action="Delete" asp-route-id="@item.CartItemId">Delete</a>
+            </td>
+        </tr>
+}
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td>Total:</td>
+            <td>@ViewData["TotalPrice"]</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+@if (hasItems)
+{
+    <a class="btn btncheckout" asp-controller="Orders" asp-action="Create" asp-route-id="@ViewData["CartId"]">Checkout</a>
+}
+
